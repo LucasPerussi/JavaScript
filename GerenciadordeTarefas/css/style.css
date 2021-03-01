@@ -1,0 +1,22 @@
+body {
+  background: rgb(255, 255, 255);
+  color: white;
+  font-family: Roboto;
+}
+
+div {
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 10%;
+  border-radius: 10px;
+  border-color: black;
+  border-style: solid;
+  padding-left: 2%;
+  background: rgb(49, 184, 184);
+}
+
+h1 {
+  font-family: Roboto;
+  font-size: 36px;
+  color: White;
+}
